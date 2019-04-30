@@ -8,6 +8,7 @@ import time
 import re
 import json
 
+
 # --------------------------------------------------------------------------------
 
 subreddit_name = 'QuantumBrute' # Mention the subreddit that bot should work on
